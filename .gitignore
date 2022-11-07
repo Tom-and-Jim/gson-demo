@@ -1,0 +1,9 @@
+bazel-bin
+bazel-genfiles
+bazel-java-maven
+bazel-out
+bazel-testlogs
+bazel-gson-demo
+.ijwb
+bazel-thrift-demo
+/src/main/java/com/example/gen
